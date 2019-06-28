@@ -1,0 +1,2 @@
+# E-Commerce-Consulting
+A project on E-Commerce Consulting Using Linear Regression. Its About a company that sells Clothes online but they also have in-store style and advice sessions where customers can come and have chat with in-store stylist and then can order online through mobile application or website. So I have built a Linear Regression Model that predicts the revenue generated per customer through mobile app and website. The model gives an insight to the company as they should focus more on mobile app or website.
